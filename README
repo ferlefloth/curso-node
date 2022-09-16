@@ -1,0 +1,11 @@
+#Notas 
+
+```
+Options:
+      --help     Show help                                             [boolean]
+      --version  Show version number                                   [boolean]
+  -b, --base     Es la base a multiplicar                    [number] [required]
+  -l, --listar   Muestra la lista en consola          [boolean] [default: false]
+  -h, --hasta    Cantidad total de números a multiplicar     [number] [required]
+
+```
